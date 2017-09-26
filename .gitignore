@@ -105,4 +105,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+<<<<<<< HEAD
 # End of https://www.gitignore.io/api/java,eclipse,windows/bin/
+=======
+# End of https://www.gitignore.io/api/java,eclipse,windows
+>>>>>>> refs/remotes/origin/master
